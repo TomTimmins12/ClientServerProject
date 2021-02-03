@@ -1,0 +1,9 @@
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\bin\Debug\netstandard2.0\Packets.deps.json
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\bin\Debug\netstandard2.0\Packets.dll
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\bin\Debug\netstandard2.0\Packets.pdb
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfoInputs.cache
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\obj\Debug\netstandard2.0\Packets.AssemblyInfo.cs
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\obj\Debug\netstandard2.0\Packets.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\obj\Debug\netstandard2.0\Packets.dll
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\obj\Debug\netstandard2.0\Packets.pdb
+C:\Users\thoma\OneDrive - Staffordshire University\Year 2\Concurrent_Network Applications\Assignment Resourses\Demo_ver_5-1-21\Packets\obj\Debug\netstandard2.0\Packets.csprojAssemblyReference.cache

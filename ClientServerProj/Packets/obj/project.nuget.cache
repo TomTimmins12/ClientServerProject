@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+167zw95yqp1U1YGWe6UprZNoI3W/u86itOMJgYUD2qdcXgq5fn5ldID7V8sixlDZ371pvjBTEX18Uw05a6uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thoma\\OneDrive - Staffordshire University\\Year 2\\Concurrent_Network Applications\\Assignment Resourses\\Demo_ver_5-1-21\\Packets\\Packets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
